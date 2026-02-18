@@ -1,0 +1,7 @@
+{
+  "name": "Constituição na Palma da Mão",
+  "description": "Um assistente inteligente para o estudo da Constituição Federal Brasileira, com organização por tópicos, análise de imagens e explicações simplificadas via IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
